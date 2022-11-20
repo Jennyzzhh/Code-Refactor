@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header is updated*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ h1 {
 h1 .seo {
     color: #d9dcd6;
 }
-
+/* change to header section so the section doesn't mess up with other sections*/
 header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -68,7 +68,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*modify the section "content"*/
 .content {
     width: 75%;
     display: inline-block;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer is updated from non semantic element to semantic element */
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +195,7 @@ footer {
     text-align: center;
 
 }
+
 h2 {
     font-size: 20px;
 }
